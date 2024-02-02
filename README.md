@@ -31,9 +31,13 @@ This Java project is a feature-rich Employee Management System with a Graphical 
 
 ## Usage
 - **Adding Employee Details:**
+![Screenshot 3](Images/AddEmployeePage.png)
 - **View Employee Details:**
+![Screenshot 3](Images/ViewPage.png)
 - **Update Employee Details:**
+![Screenshot 3](Images/UpdateEmployeePage.png)
 - **Remove Employee Details:**
+![Screenshot 3](Images/RemovePage.png)
 
 ## Contributing
 Contributions are welcome! If you have any ideas for improvement or find any bugs, feel free to open an issue or submit a pull request.
