@@ -1,6 +1,6 @@
 # Java Employee Management System GUI Project
 
-![Software Demo](Documents/NetBeansProjects/Demo Images/Entry Point.png)
+![Software Demo](Images/Entry Point.png)
 ![Screenshot 1](Documents/NetBeansProjects/Demo Images/Login Page.png)
 ![Screenshot 2](Documents/NetBeansProjects/Demo Images/AfterLoginPage.png)
 
