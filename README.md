@@ -1,8 +1,8 @@
 # Java Employee Management System GUI Project
 
 ![Software Demo](Images/EntryPoint.png)
-![Screenshot 1](Documents/NetBeansProjects/Demo Images/LoginPage.png)
-![Screenshot 2](Documents/NetBeansProjects/Demo Images/AfterLoginPage.png)
+![Screenshot 1](Images/LoginPage.png)
+![Screenshot 2](Images/AfterLoginPage.png)
 
 ## Overview
 This Java project is a feature-rich Employee Management System with a Graphical User Interface (GUI). It offers an intuitive interface for performing All HR operations Basically.
@@ -19,10 +19,10 @@ This Java project is a feature-rich Employee Management System with a Graphical 
 - **MySql** (for database)
   
 ## Screenshots
-![Screenshot 3](Documents/NetBeansProjects/Demo Images/IT department.png)
-![Screenshot 4](Documents/NetBeansProjects/Demo Images/Finance Department.png)
-![Screenshot 5](Documents/NetBeansProjects/Demo Images/Production Department.png)
-![Screenshot 6](Documents/NetBeansProjects/Demo Images/Sales Department.png)
+![Screenshot 3](Images/ITdepartment.png)
+![Screenshot 4](Images/FinanceDepartment.png)
+![Screenshot 5](Images/ProductionDepartment.png)
+![Screenshot 6](Images/SalesDepartment.png)
 
 ## Getting Started
 1. **Prerequisites:** Ensure you have Java installed on your system.
